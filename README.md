@@ -4,7 +4,7 @@ This repository contains the Fusion 360 design, sliced print files, and test set
 
 Design:
 
-- Fusion 360 design, sliced print files (3mf and Gcode), and 3D-printing settings.
+- Fusion 360 design, print files (3mf and Gcode), and 3D-printing settings.
 - Note that the hole for the servo arm horns must be created before printing the servo arm, as it is not yet included in the sliced print file.
 
 Test set up:
